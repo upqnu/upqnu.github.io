@@ -31,8 +31,8 @@ public class MinSquare {
 
     public static void main(String[] args) {
         MinSquare ms = new MinSquare();
-        int[][] sizes = {{60, 50}, {30, 70}, {60, 30}, {80, 40}};
-        int[][] sizes2 = {{14, 4}, {19, 6}, {6, 16}, {18, 7}, {7, 11}};
+        int[][] sizes = { {60, 50}, {30, 70}, {60, 30}, {80, 40} };
+        int[][] sizes2 = { {14, 4}, {19, 6}, {6, 16}, {18, 7}, {7, 11} };
         System.out.println(ms.solution1(sizes2)); 
     } 
 }
