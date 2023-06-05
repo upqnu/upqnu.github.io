@@ -8,7 +8,7 @@ tag: [코딩테스트, 알고리즘, 완전탐색]
 ### 최소 직사각형 (https://school.programmers.co.kr/learn/courses/30/lessons/86491)
   
 ```java
-public class MinSquare {
+public class MinSquare { 
     // 1. 주어진 sizes 배열에서 가로, 세로 중 더 긴 쪽을 가로(또는 세로) - 더 짧은 쪽은 세로(또는 가로)로 변경한 후,
     // 2. 가로, 세로 중 가장 큰 값을 서로 곱해서 지갑의 크기를 구한다.
     public int solution1(int[][] sizes) {
@@ -27,14 +27,14 @@ public class MinSquare {
         }
         answer = hori * vert;
         return answer;
-    }
+    } 
 
     public static void main(String[] args) {
         MinSquare ms = new MinSquare();
         int[][] sizes = {{60, 50}, {30, 70}, {60, 30}, {80, 40}};
         int[][] sizes2 = {{14, 4}, {19, 6}, {6, 16}, {18, 7}, {7, 11}};
-        System.out.println(ms.solution1(sizes2));
-    }
+        System.out.println(ms.solution1(sizes2)); 
+    } 
 }
 ```
   
