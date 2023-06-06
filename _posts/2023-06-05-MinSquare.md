@@ -5,7 +5,8 @@ categories: 코딩테스트
 tag: [코딩테스트, 알고리즘, 완전탐색]
 ---
   
-### 최소 직사각형 (https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+### 최소 직사각형
+<https://school.programmers.co.kr/learn/courses/30/lessons/86491>
   
 ```java
 public class MinSquare { 
