@@ -78,8 +78,9 @@ IDE로 VScode를 사용하면 "Git Graph"를 사용하여 깃 브랜치들을 �
   
    
 ▶︎ 포스팅 작성을 위해 참고한 정보는 다음과 같습니다 :
-https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Rebase-%ED%95%98%EA%B8%B0
-https://upsw-p.tistory.com/41
-https://wbluke.tistory.com/26
-얄팍한 코딩사전 - 제대로 파는 Git & GitHub - 깃 끝장내기(https://www.youtube.com/watch?v=1I3hMwQU6GU)
+https://git-scm.com/book/ko/v2/  Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Rebase-%ED%95%98%EA%B8%B0
+https://upsw-p.tistory.com/41  
+https://wbluke.tistory.com/26  
+얄팍한 코딩사전 - 제대로 파는 Git & GitHub - 깃 끝장내기(https://www.youtube.com/watch?v=1I3hMwQU6GU)  
+
   
