@@ -2,13 +2,13 @@
 layout: single
 title: "코딩테스트 : 최소 직사각형 문제"
 categories: 코딩테스트
-tag: [코딩테스트, 알고리즘, 완전탐색]
+tag: [코딩테스트, 알고리즘, 완전탐색, java]
 ---
   
 ### 최소 직사각형
 <https://school.programmers.co.kr/learn/courses/30/lessons/86491>  
   
-
+(사용언어 : java)
   
 ```java
 public class MinSquare { 
